@@ -1,0 +1,1 @@
+Este programa implementa um sistema de cadastro de produtos usando PyQt5 para a interface gráfica do usuário (GUI) e MySQL para a persistência de dados. A função principal do programa é permitir aos usuários adicionar, editar, excluir e visualizar produtos cadastrados, além de gerar um relatório em PDF dos produtos cadastrados.
